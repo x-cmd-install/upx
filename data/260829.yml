@@ -1,0 +1,65 @@
+about:
+  description: UPX - the Ultimate Packer for eXecutables
+  license: NOASSERTION
+  homepage: https://upx.github.io
+  head: 5c72efc
+  archived: false
+  latestVersion: v5.2.1
+  collectedAt: 2026-08-29T07:09:26Z
+timeline:
+  created: 2016-08-31
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-27
+popularity:
+  star: 17823
+  watcher: 267
+  fork: 1521
+  release: 24
+  contributor: 21
+  pullRequest: 67
+  issue: 855
+language:
+  C++: 2662998
+  Assembly: 1198385
+  C: 546507
+  Makefile: 136567
+  Python: 73062
+  CMake: 53818
+  Shell: 50191
+  Linker Script: 25950
+  Dockerfile: 5682
+  sed: 498
+totalLine: 4753658
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 7
+    openIssue: 1
+    commit: 26
+  last90d:
+    since: 2026-05-31
+    release: 2
+    mergedPR: 23
+    openPR: 0
+    closedIssue: 16
+    openIssue: 5
+    commit: 102
+  last180d:
+    since: 2026-03-02
+    release: 3
+    mergedPR: 25
+    openPR: 0
+    closedIssue: 30
+    openIssue: 6
+    commit: 166
+  last360d:
+    since: 2025-09-03
+    release: 4
+    mergedPR: 25
+    openPR: 0
+    closedIssue: 53
+    openIssue: 7
+    commit: 299
