@@ -7,7 +7,7 @@ about:
   head: 2002d5d
   archived: false
   latestVersion: v5.2.1
-  collectedAt: 2026-09-04T19:38:08Z
+  collectedAt: 2026-09-04T20:55:48Z
 timeline:
   created: 2016-08-31
   lastCommit: 2026-09-03
@@ -19,7 +19,7 @@ popularity:
   release: 24
   contributor: 21
   pullRequest: 129
-  issue: 858
+  issue: 859
 language:
   C++: 2687342
   Assembly: 1198385
@@ -39,7 +39,7 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 9
-    openIssue: 1
+    openIssue: 2
     commit: 23
   last60d:
     since: 2026-07-06
@@ -47,7 +47,7 @@ recent:
     mergedPR: 1
     openPR: 0
     closedIssue: 14
-    openIssue: 2
+    openIssue: 3
     commit: 41
   last90d:
     since: 2026-06-06
@@ -55,7 +55,7 @@ recent:
     mergedPR: 23
     openPR: 0
     closedIssue: 19
-    openIssue: 5
+    openIssue: 6
     commit: 99
   last180d:
     since: 2026-03-08
@@ -63,7 +63,7 @@ recent:
     mergedPR: 25
     openPR: 0
     closedIssue: 33
-    openIssue: 6
+    openIssue: 7
     commit: 166
   last360d:
     since: 2025-09-09
@@ -71,7 +71,7 @@ recent:
     mergedPR: 25
     openPR: 0
     closedIssue: 55
-    openIssue: 7
+    openIssue: 8
     commit: 300
   last720d:
     since: 2024-09-14
@@ -79,16 +79,99 @@ recent:
     mergedPR: 25
     openPR: 0
     closedIssue: 121
-    openIssue: 9
+    openIssue: 10
     commit: 163
 total:
   release: 24
   mergedPR: 62
   openPR: 0
   closedIssue: 834
-  openIssue: 24
+  openIssue: 25
   commit: 4828
 ---
+path: /home/runner/.x-repo/github.com/upx/upx
+collectedAt: 2026-09-04T20:55:52Z
+loc:
+  CHeader:
+    code: 110068
+    comments: 7163
+    blanks: 2588
+    files: 195
+  Cpp:
+    code: 37205
+    comments: 5780
+    blanks: 4596
+    files: 64
+  AssemblyGAS:
+    code: 36522
+    comments: 7978
+    blanks: 4747
+    files: 242
+  C:
+    code: 11743
+    comments: 2340
+    blanks: 1390
+    files: 56
+  Makefile:
+    code: 2205
+    comments: 516
+    blanks: 533
+    files: 26
+  Python:
+    code: 1630
+    comments: 332
+    blanks: 184
+    files: 9
+  Sh:
+    code: 1143
+    comments: 265
+    blanks: 142
+    files: 13
+  CMake:
+    code: 922
+    comments: 199
+    blanks: 118
+    files: 5
+  Assembly:
+    code: 702
+    comments: 156
+    blanks: 130
+    files: 1
+  Html:
+    code: 536
+    comments: 0
+    blanks: 267
+    files: 1
+  LinkerScript:
+    code: 311
+    comments: 516
+    blanks: 73
+    files: 34
+  Yaml:
+    code: 88
+    comments: 12
+    blanks: 0
+    files: 4
+  Dockerfile:
+    code: 84
+    comments: 14
+    blanks: 6
+    files: 1
+  CppHeader:
+    code: 49
+    comments: 30
+    blanks: 5
+    files: 1
+  Text:
+    code: 0
+    comments: 1813
+    blanks: 302
+    files: 9
+total:
+  code: 203208
+  comments: 27114
+  blanks: 15081
+  files: 661
 ---
 date: "2026-08-24"
 repo:
