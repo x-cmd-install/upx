@@ -5,15 +5,15 @@ about:
   head: 2002d5d
   archived: false
   latestVersion: "v5.2.1"
-  collectedAt: 2026-09-07T03:11:12Z
+  collectedAt: 2026-09-07T20:07:59Z
 timeline:
   created: 2016-08-31
   lastCommit: 2026-09-03
   lastRelease: 2026-08-27
 popularity:
-  star: 17855
+  star: 17857
   watcher: 272
-  fork: 1522
+  fork: 1523
   release: 24
   contributor: 21
   pullRequest: 129
@@ -88,7 +88,7 @@ total:
   commit: 4828
 ---
 path: /home/runner/.x-repo/github.com/upx/upx
-collectedAt: 2026-09-07T03:11:21Z
+collectedAt: 2026-09-07T20:08:10Z
 loc:
   CHeader:
     code: 110068
@@ -288,7 +288,7 @@ checks:
       - 'Info:   0 out of   1 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T03:11:22+00:00
+  collectedAt: 2026-09-07T20:08:11+00:00
   platform:
     darwin/arm64:
       name:  null
