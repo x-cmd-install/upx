@@ -5,7 +5,7 @@ about:
   head: 2002d5d
   archived: false
   latestVersion: "v5.2.1"
-  collectedAt: 2026-09-08T01:39:25Z
+  collectedAt: 2026-09-08T03:31:28Z
 timeline:
   created: 2016-08-31
   lastCommit: 2026-09-03
@@ -88,7 +88,7 @@ total:
   commit: 4828
 ---
 path: /home/runner/.x-repo/github.com/upx/upx
-collectedAt: 2026-09-08T01:39:36Z
+collectedAt: 2026-09-08T03:31:39Z
 loc:
   CHeader:
     code: 110068
