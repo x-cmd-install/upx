@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 664048,
       "digest": "sha256:402162aad30af47e60dbd767fb2e64ca394ace9727ba1f40283641f1d1b91657",
-      "download_count": 4770,
+      "download_count": 5077,
       "created_at": "2026-08-27T14:00:32Z",
       "updated_at": "2026-08-27T14:00:36Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-amd64_linux.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 674620,
       "digest": "sha256:a72d112c5970a904a31da0b9c84f919bc16b9a311787c12245508544a78c7d36",
-      "download_count": 1561,
+      "download_count": 1624,
       "created_at": "2026-08-27T14:00:36Z",
       "updated_at": "2026-08-27T14:00:38Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-arm64_linux.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 682864,
       "digest": "sha256:31ac41b612c4c1166dc7a7c194e2ad8fadcf9fdf25aa4bd3c14799823b9e5f9e",
-      "download_count": 56,
+      "download_count": 57,
       "created_at": "2026-08-27T14:00:39Z",
       "updated_at": "2026-08-27T14:00:40Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-armeb_linux.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 675448,
       "digest": "sha256:d74c0d8bfdd7aad9114470efaa14fa889158f3dbfbc7128ba76c403aee545ef8",
-      "download_count": 124,
+      "download_count": 127,
       "created_at": "2026-08-27T14:00:38Z",
       "updated_at": "2026-08-27T14:00:39Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-arm_linux.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 781918,
       "digest": "sha256:591fd6e56ce3985dfe68da7e60e543aa28dfacc6e16657514a93aa7448dec7b0",
-      "download_count": 585,
+      "download_count": 600,
       "created_at": "2026-08-27T14:00:40Z",
       "updated_at": "2026-08-27T14:00:41Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-dos.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 721508,
       "digest": "sha256:44b505d881337ef17ad03f03fd80f2ecdebc3a36077e1dd260ae1b359c713ba5",
-      "download_count": 230,
+      "download_count": 249,
       "created_at": "2026-08-27T14:00:41Z",
       "updated_at": "2026-08-27T14:00:43Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-i386_linux.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 759888,
       "digest": "sha256:84fc6c0c33ed668c099d4f82d72ac7fd4070b19797ebb990f999278267b94e0d",
-      "download_count": 57,
+      "download_count": 59,
       "created_at": "2026-08-27T14:00:44Z",
       "updated_at": "2026-08-27T14:00:45Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-mipsel_linux.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 763444,
       "digest": "sha256:d2cd981ff725a31f9f596f80fcc5c1682e648a59231e220a3967c661c6d1fafb",
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2026-08-27T14:00:43Z",
       "updated_at": "2026-08-27T14:00:44Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-mips_linux.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 750136,
       "digest": "sha256:e914046633567c3255a6440bae4d6c13d9f90d458445b47b8474b048ca4072b7",
-      "download_count": 49,
+      "download_count": 51,
       "created_at": "2026-08-27T14:00:45Z",
       "updated_at": "2026-08-27T14:00:46Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-powerpc64le_linux.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1778024,
       "digest": "sha256:a7d457be4ef942e46844ee8f301206b111394cbcbde3599747a6904c54ff116b",
-      "download_count": 1431,
+      "download_count": 1482,
       "created_at": "2026-08-27T14:00:48Z",
       "updated_at": "2026-08-27T14:00:49Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-src.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 680706,
       "digest": "sha256:4a06f247b0184976c1e7fd5af9293977cdb1bf4ba9416ae58e3560bd62d871ff",
-      "download_count": 2014,
+      "download_count": 2049,
       "created_at": "2026-08-27T14:00:49Z",
       "updated_at": "2026-08-27T14:00:50Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-win32.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 680290,
       "digest": "sha256:eabc6792a347d45e945be7748423e7868fd01b0d2bcaa2f4b1031fd71ff69bda",
-      "download_count": 13756,
+      "download_count": 14471,
       "created_at": "2026-08-27T14:00:50Z",
       "updated_at": "2026-08-27T14:00:51Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-win64.zip"
