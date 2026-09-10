@@ -23,23 +23,41 @@ x install upx
 - **Latest**: `v5.2.1` (2026-08-27)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 14
-- **Published**: 2026-08-27T14:01:40Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [upx-5.2.1-amd64_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-amd64_linux.tar.xz) | 648.5 KiB | `native/linux/x64` |
+| [upx-5.2.1-arm64_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-arm64_linux.tar.xz) | 658.8 KiB | `native/linux/arm64` |
+| [upx-5.2.1-armeb_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-armeb_linux.tar.xz) | 666.9 KiB | `native/linux/arm` |
+| [upx-5.2.1-arm_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-arm_linux.tar.xz) | 659.6 KiB | `native/linux/arm` |
+| [upx-5.2.1-dos.zip](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-dos.zip) | 763.6 KiB | `other` |
+| [upx-5.2.1-i386_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-i386_linux.tar.xz) | 704.6 KiB | `native/linux/x86` |
+| [upx-5.2.1-mipsel_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-mipsel_linux.tar.xz) | 742.1 KiB | `other` |
+| [upx-5.2.1-mips_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-mips_linux.tar.xz) | 745.6 KiB | `other` |
+| [upx-5.2.1-powerpc64le_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-powerpc64le_linux.tar.xz) | 732.6 KiB | `other` |
+| [upx-5.2.1-powerpc_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-powerpc_linux.tar.xz) | 707.3 KiB | `other` |
+| [upx-5.2.1-riscv64_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-riscv64_linux.tar.xz) | 723.5 KiB | `native/linux/riscv64` |
+| [upx-5.2.1-src.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-src.tar.xz) | 1.7 MiB | `other` |
+| [upx-5.2.1-win32.zip](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-win32.zip) | 664.8 KiB | `native/win/x64` |
+| [upx-5.2.1-win64.zip](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-win64.zip) | 664.3 KiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 17,858 · **Forks**: 1,522 · **Open issues**: 860 · **Contributors**: 21
+- **Stars**: 17,859 · **Forks**: 1,522 · **Open issues**: 860 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 836 · **Open issues**: 24 · **Commits**: 4831
+- **Releases**: 24 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 837 · **Open issues**: 23 · **Commits**: 4831
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 9 | 3 | 20 |
-| 90d | 2026-06-12 | 1 | 20 | 0 | 21 | 5 | 88 |
-| 360d | 2025-09-15 | 4 | 25 | 0 | 57 | 7 | 302 |
+| 30d | 2026-08-11 | 1 | 0 | 0 | 10 | 2 | 20 |
+| 90d | 2026-06-12 | 1 | 20 | 0 | 22 | 4 | 88 |
+| 360d | 2025-09-15 | 4 | 25 | 0 | 58 | 6 | 302 |
 
 ## Code size
 
@@ -68,8 +86,8 @@ Lowest-scoring checks:
 Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `upx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/upx.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/upx.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:21:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:53:22Z._
