@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.2.1"
   latestRelease: "v5.2.1"
   latestPrerelease: "v3.99"
-  collectedAt: 2026-09-10T15:53:06Z
+  collectedAt: 2026-09-10T20:19:56Z
 timeline:
   created: 2016-08-31
   lastCommit: 2026-09-09
@@ -92,7 +92,7 @@ total:
   commit: 4831
 ---
 path: /home/runner/.x-repo/github.com/upx/upx
-collectedAt: 2026-09-10T15:53:17Z
+collectedAt: 2026-09-10T20:20:06Z
 loc:
   CHeader:
     code: 110046
