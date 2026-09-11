@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 664048,
       "digest": "sha256:402162aad30af47e60dbd767fb2e64ca394ace9727ba1f40283641f1d1b91657",
-      "download_count": 5882,
+      "download_count": 5977,
       "created_at": "2026-08-27T14:00:32Z",
       "updated_at": "2026-08-27T14:00:36Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-amd64_linux.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 674620,
       "digest": "sha256:a72d112c5970a904a31da0b9c84f919bc16b9a311787c12245508544a78c7d36",
-      "download_count": 1929,
+      "download_count": 1942,
       "created_at": "2026-08-27T14:00:36Z",
       "updated_at": "2026-08-27T14:00:38Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-arm64_linux.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1778024,
       "digest": "sha256:a7d457be4ef942e46844ee8f301206b111394cbcbde3599747a6904c54ff116b",
-      "download_count": 1657,
+      "download_count": 1661,
       "created_at": "2026-08-27T14:00:48Z",
       "updated_at": "2026-08-27T14:00:49Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-src.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 680706,
       "digest": "sha256:4a06f247b0184976c1e7fd5af9293977cdb1bf4ba9416ae58e3560bd62d871ff",
-      "download_count": 2175,
+      "download_count": 2186,
       "created_at": "2026-08-27T14:00:49Z",
       "updated_at": "2026-08-27T14:00:50Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-win32.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 680290,
       "digest": "sha256:eabc6792a347d45e945be7748423e7868fd01b0d2bcaa2f4b1031fd71ff69bda",
-      "download_count": 16498,
+      "download_count": 16640,
       "created_at": "2026-08-27T14:00:50Z",
       "updated_at": "2026-08-27T14:00:51Z",
       "browser_download_url": "https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-win64.zip"
