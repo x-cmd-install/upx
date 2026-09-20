@@ -4,7 +4,7 @@
 
 UPX - the Ultimate Packer for eXecutables
 
-![upx](https://repo.x-cmd.io/upx.svg)
+[![x-cmd/install — upx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/upx.svg)](https://x-cmd.com/install/upx)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,878 · **Forks**: 1,525 · **Open issues**: 861 · **Contributors**: 21
+- **Stars**: 17,883 · **Forks**: 1,526 · **Open issues**: 863 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 841 · **Open issues**: 20 · **Commits**: 4837
+- **Releases**: 24 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 842 · **Open issues**: 21 · **Commits**: 4837
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 11 | 0 | 22 |
-| last60d | 2026-07-20 | 1 | 1 | 0 | 18 | 0 | 43 |
-| 90d | 2026-06-20 | 1 | 8 | 0 | 23 | 2 | 75 |
-| last180d | 2026-03-22 | 2 | 25 | 0 | 36 | 3 | 170 |
-| 360d | 2025-09-23 | 4 | 25 | 0 | 61 | 4 | 307 |
-| last720d | 2024-09-28 | 7 | 25 | 0 | 126 | 6 | 172 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 11 | 1 | 22 |
+| last60d | 2026-07-22 | 1 | 1 | 0 | 19 | 1 | 43 |
+| 90d | 2026-06-22 | 1 | 7 | 0 | 24 | 3 | 75 |
+| last180d | 2026-03-24 | 2 | 25 | 0 | 37 | 4 | 170 |
+| 360d | 2025-09-25 | 4 | 25 | 0 | 62 | 5 | 307 |
+| last720d | 2024-09-30 | 7 | 25 | 0 | 127 | 7 | 172 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:28:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:41:45Z._
