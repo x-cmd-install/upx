@@ -4,7 +4,7 @@
 
 UPX - the Ultimate Packer for eXecutables
 
-[![x-cmd/install — upx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/upx.svg)](https://x-cmd.com/install/upx)
+[![x-cmd/install — upx Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/upx.svg)](https://x-cmd.com/install/upx)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install upx
 
 ## Code insight
 
-Total: **203,701** lines of code across **583** files in the top 5 languages.
+Total: **203,705** lines of code across **583** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 110,048 | 7,163 | 2,588 | 195 |
-| Cpp | 37,644 | 5,782 | 4,605 | 64 |
+| Cpp | 37,648 | 5,782 | 4,605 | 64 |
 | AssemblyGAS | 36,631 | 7,996 | 4,756 | 242 |
 | C | 11,727 | 2,340 | 1,387 | 56 |
 | Makefile | 2,186 | 516 | 532 | 26 |
@@ -30,8 +30,8 @@ Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Security-Policy** (3/10) — security policy file detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,890 · **Forks**: 1,525 · **Open issues**: 863 · **Contributors**: 21
+- **Stars**: 17,892 · **Forks**: 1,525 · **Open issues**: 863 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 842 · **Open issues**: 21 · **Commits**: 4838
+- **Releases**: 24 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 842 · **Open issues**: 21 · **Commits**: 4839
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 10 | 1 | 13 |
-| last60d | 2026-07-24 | 1 | 1 | 0 | 18 | 1 | 40 |
-| 90d | 2026-06-24 | 1 | 5 | 0 | 23 | 1 | 62 |
-| last180d | 2026-03-26 | 2 | 25 | 0 | 37 | 4 | 170 |
-| 360d | 2025-09-27 | 4 | 25 | 0 | 62 | 5 | 307 |
-| last720d | 2024-10-02 | 7 | 25 | 0 | 127 | 7 | 173 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 9 | 1 | 14 |
+| last60d | 2026-07-25 | 1 | 0 | 0 | 17 | 1 | 41 |
+| 90d | 2026-06-25 | 1 | 4 | 0 | 22 | 1 | 63 |
+| last180d | 2026-03-27 | 2 | 25 | 0 | 37 | 4 | 171 |
+| 360d | 2025-09-28 | 4 | 25 | 0 | 62 | 5 | 308 |
+| last720d | 2024-10-03 | 7 | 25 | 0 | 127 | 7 | 174 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:36:33Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:35:31Z._
