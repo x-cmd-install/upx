@@ -14,7 +14,7 @@ x install upx
 
 ## Code insight
 
-Total: **203,705** lines of code across **583** files in the top 5 languages.
+Total: **203,709** lines of code across **583** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.2.1` (2026-08-27)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-23
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 17,892 · **Forks**: 1,525 · **Open issues**: 863 · **Contributors**: 21
+- **Stars**: 17,897 · **Forks**: 1,525 · **Open issues**: 863 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 842 · **Open issues**: 21 · **Commits**: 4839
+- **Releases**: 24 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 842 · **Open issues**: 21 · **Commits**: 4840
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 0 | 0 | 9 | 1 | 14 |
-| last60d | 2026-07-25 | 1 | 0 | 0 | 17 | 1 | 41 |
-| 90d | 2026-06-25 | 1 | 4 | 0 | 22 | 1 | 63 |
-| last180d | 2026-03-27 | 2 | 25 | 0 | 37 | 4 | 171 |
-| 360d | 2025-09-28 | 4 | 25 | 0 | 62 | 5 | 308 |
-| last720d | 2024-10-03 | 7 | 25 | 0 | 127 | 7 | 174 |
+| 30d | 2026-08-25 | 1 | 0 | 0 | 9 | 1 | 15 |
+| last60d | 2026-07-26 | 1 | 0 | 0 | 17 | 1 | 42 |
+| 90d | 2026-06-26 | 1 | 3 | 0 | 22 | 1 | 64 |
+| last180d | 2026-03-28 | 2 | 25 | 0 | 37 | 4 | 172 |
+| 360d | 2025-09-29 | 4 | 25 | 0 | 62 | 5 | 309 |
+| last720d | 2024-10-04 | 7 | 25 | 0 | 127 | 7 | 175 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T03:35:31Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T03:25:46Z._
