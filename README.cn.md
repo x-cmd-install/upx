@@ -26,11 +26,11 @@ x install upx
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **4.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/28 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/22 approved changesets -- score normalized to 1
 - **Security-Policy** (3/10) — security policy file detected
 - **Packaging** (-1/10) — packaging workflow not detected
 
@@ -48,22 +48,22 @@ x install upx
 
 ## 流行度
 
-- **Star**: 17,919 · **Fork**: 1,528 · **开放 issue**: 869 · **贡献者**: 22
+- **Star**: 17,922 · **Fork**: 1,528 · **开放 issue**: 869 · **贡献者**: 22
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 65 · **开放 PR**: 0 · **已关闭 issue**: 847 · **开放 issue**: 22 · **提交数**: 4861
+- **发布数**: 24 · **已合并 PR**: 65 · **开放 PR**: 0 · **已关闭 issue**: 848 · **开放 issue**: 21 · **提交数**: 4861
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 3 | 0 | 8 | 2 | 29 |
-| last60d | 2026-08-07 | 1 | 3 | 0 | 19 | 2 | 52 |
-| 90d | 2026-07-08 | 1 | 4 | 0 | 24 | 2 | 72 |
-| last180d | 2026-04-09 | 2 | 28 | 0 | 40 | 5 | 179 |
-| 360d | 2025-10-11 | 4 | 28 | 0 | 64 | 6 | 312 |
-| last720d | 2024-10-16 | 7 | 28 | 0 | 131 | 8 | 196 |
+| 30d | 2026-09-07 | 0 | 3 | 0 | 8 | 2 | 29 |
+| last60d | 2026-08-08 | 1 | 3 | 0 | 19 | 2 | 52 |
+| 90d | 2026-07-09 | 1 | 4 | 0 | 24 | 2 | 72 |
+| last180d | 2026-04-10 | 2 | 28 | 0 | 39 | 5 | 179 |
+| 360d | 2025-10-12 | 4 | 28 | 0 | 64 | 6 | 312 |
+| last720d | 2024-10-17 | 7 | 28 | 0 | 131 | 8 | 196 |
 
 ## Release 资产
 
@@ -93,4 +93,4 @@ upx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T05:09:50Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T04:37:28Z._
