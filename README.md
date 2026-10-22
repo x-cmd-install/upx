@@ -14,12 +14,12 @@ x install upx
 
 ## Code insight
 
-Total: **205,701** lines of code across **588** files in the top 5 languages.
+Total: **205,706** lines of code across **588** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 110,512 | 7,170 | 2,596 | 195 |
-| Cpp | 38,697 | 5,796 | 4,634 | 65 |
+| Cpp | 38,702 | 5,802 | 4,634 | 65 |
 | AssemblyGAS | 36,806 | 8,009 | 4,764 | 243 |
 | C | 11,837 | 2,340 | 1,402 | 59 |
 | Makefile | 2,187 | 516 | 532 | 26 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.2.1` (2026-08-27)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 17,958 · **Forks**: 1,539 · **Open issues**: 874 · **Contributors**: 25
+- **Stars**: 17,957 · **Forks**: 1,539 · **Open issues**: 874 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 72 · **Open PRs**: 4 · **Closed issues**: 855 · **Open issues**: 19 · **Commits**: 4911
+- **Releases**: 24 · **Merged PRs**: 73 · **Open PRs**: 3 · **Closed issues**: 855 · **Open issues**: 19 · **Commits**: 4913
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 10 | 4 | 9 | 2 | 71 |
-| last60d | 2026-08-22 | 1 | 10 | 4 | 19 | 3 | 90 |
-| 90d | 2026-07-23 | 1 | 11 | 4 | 28 | 3 | 113 |
-| last180d | 2026-04-24 | 2 | 35 | 4 | 41 | 6 | 214 |
-| 360d | 2025-10-26 | 4 | 35 | 4 | 68 | 6 | 356 |
-| last720d | 2024-10-31 | 7 | 35 | 4 | 133 | 7 | 246 |
+| 30d | 2026-09-22 | 0 | 11 | 3 | 9 | 2 | 73 |
+| last60d | 2026-08-23 | 1 | 11 | 3 | 19 | 3 | 92 |
+| 90d | 2026-07-24 | 1 | 12 | 3 | 27 | 3 | 115 |
+| last180d | 2026-04-25 | 2 | 36 | 3 | 41 | 6 | 216 |
+| 360d | 2025-10-27 | 4 | 36 | 3 | 68 | 6 | 358 |
+| last720d | 2024-11-01 | 7 | 36 | 3 | 133 | 7 | 248 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T03:32:52Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T03:32:02Z._
