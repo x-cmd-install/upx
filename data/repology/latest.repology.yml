@@ -1,157 +1,5 @@
-- repo: homebrew
-  srcname: upx
-  visiblename: upx
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Compress/expand executable files
-- repo: aerynos
-  srcname: upx
-  visiblename: upx
-  version: 5.2.1
-  origversion: null
-  status: newest
-  summary: Packer/compressor for binary executable files
-  licenses:
-    - GPL-2.0-or-later
-- repo: arch
-  subrepo: extra
-  srcname: upx
-  binname: upx
-  visiblename: upx
-  version: 5.2.0
-  origversion: 5.2.0-1
-  status: outdated
-  summary: Extendable, high-performance executable packer for several executable formats
-  licenses:
-    - custom
-    - GPL-2.0-or-later
-- repo: mx_23
+- repo: pardus_21
   subrepo: main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-1.1~mx23+1
-  status: outdated
-  maintainers:
-    - stevep@mxlinux.org
-  categories:
-    - utils
-- repo: mx_23_testing
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-1~mx23+1
-  status: outdated
-  maintainers:
-    - stevep@mxlinux.org
-  categories:
-    - utils
-- repo: nix_stable_24_05
-  srcname: upx
-  visiblename: upx
-  version: 4.2.3
-  origversion: null
-  status: outdated
-  summary: The Ultimate Packer for eXecutables
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-2.0-or-later
-- repo: nix_stable_24_11
-  srcname: upx
-  visiblename: upx
-  version: 4.2.4
-  origversion: null
-  status: outdated
-  summary: Ultimate Packer for eXecutables
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-2.0-or-later
-- repo: nix_stable_25_05
-  srcname: upx
-  visiblename: upx
-  version: 5.0.1
-  origversion: null
-  status: outdated
-  summary: Ultimate Packer for eXecutables
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-2.0-or-later
-- repo: nix_stable_25_11
-  srcname: upx
-  visiblename: upx
-  version: 5.0.2
-  origversion: null
-  status: outdated
-  summary: Ultimate Packer for eXecutables
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-2.0-or-later
-- repo: pkgsrc_2026_2
-  srcname: archivers/upx
-  binname: upx
-  visiblename: archivers/upx
-  version: "3.96"
-  origversion: 3.96nb3
-  status: outdated
-  summary: Ultimate packer for executables
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - archivers
-- repo: pkgsrc_2026_3
-  srcname: archivers/upx
-  binname: upx
-  visiblename: archivers/upx
-  version: "3.96"
-  origversion: 3.96nb3
-  status: outdated
-  summary: Ultimate packer for executables
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - archivers
-- repo: pkgsrc_current
-  srcname: archivers/upx
-  binname: upx
-  visiblename: archivers/upx
-  version: "3.96"
-  origversion: 3.96nb3
-  status: outdated
-  summary: Ultimate packer for executables
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - archivers
-- repo: pld
-  srcname: upx
-  visiblename: upx
-  version: 4.2.4
-  origversion: 4.2.4-1
-  status: outdated
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: "3.95"
-  origversion: 3.95-1
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - utils
-- repo: pureos_byzantium
-  subrepo: byzantium/main
   srcname: upx-ucl
   binnames:
     - upx-ucl
@@ -161,59 +9,6 @@
   status: outdated
   maintainers:
     - robert@debian.org
-  categories:
-    - utils
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-1.1
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - utils
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: "3.96"
-  origversion: 3.96-3
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - utils
-- repo: raspbian_stable
-  subrepo: main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-1.1
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - utils
-- repo: raspbian_testing
-  subrepo: main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-2
-  status: outdated
-  maintainers:
-    - upx-ucl@packages.debian.org
-    - bage@debian.org
   categories:
     - utils
 - repo: parrot
@@ -229,21 +24,8 @@
     - robert@debian.org
   categories:
     - utils
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: "3.96"
-  origversion: 3.96-2
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - utils
-- repo: deepin_25
-  subrepo: community
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: upx-ucl
   binnames:
     - upx-ucl
@@ -254,71 +36,62 @@
   maintainers:
     - robert@debian.org
   categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-2
-  status: outdated
-  maintainers:
-    - upx-ucl@packages.debian.org
-    - bage@debian.org
-  categories:
     - utils
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: "5"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: kali_rolling
-  subrepo: main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-2
-  status: outdated
-  maintainers:
-    - upx-ucl@packages.debian.org
-    - bage@debian.org
-  categories:
-    - utils
-- repo: alpine_3_17
-  subrepo: community
+- repo: pclinuxos
   srcname: upx
-  binname: upx
-  visiblename: upx
-  version: 4.0.2
-  origversion: 4.0.2-r0
-  status: outdated
-  summary: The Ultimate Packer for eXecutables
-  maintainers:
-    - mitch.tishmack@gmail.com
-  licenses:
-    - GPL-2.0 Public-Domain
-- repo: parabola
-  subrepo: extra
-  srcname: upx
-  binname: upx
   visiblename: upx
   version: 5.2.0
-  origversion: 5.2.0-1
+  origversion: 5.2.0-1pclos2026
   status: outdated
-  summary: Extendable, high-performance executable packer for several executable formats
+  summary: The Ultimate Packer for eXecutables
+  categories:
+    - Archiving/Compression
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: 5.0.1
+  origversion: null
+  status: legacy
   licenses:
-    - custom
+    - GPLv2
+  categories:
+    - Development
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-1.1
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - universe/utils
+- repo: aerynos
+  srcname: upx
+  visiblename: upx
+  version: 5.2.1
+  origversion: null
+  status: newest
+  summary: Packer/compressor for binary executable files
+  licenses:
     - GPL-2.0-or-later
+- repo: alpine_3_17
+  subrepo: community
+  srcname: upx
+  binname: upx
+  visiblename: upx
+  version: 4.0.2
+  origversion: 4.0.2-r0
+  status: outdated
+  summary: The Ultimate Packer for eXecutables
+  maintainers:
+    - mitch.tishmack@gmail.com
+  licenses:
+    - GPL-2.0 Public-Domain
 - repo: alpine_3_17
   subrepo: community
   srcname: upx
@@ -358,121 +131,123 @@
     - mitch.tishmack@gmail.com
   licenses:
     - GPL-2.0 Public-Domain
-- repo: alpine_3_19
-  subrepo: community
-  srcname: upx
-  binname: upx
-  visiblename: upx
-  version: 4.2.1
-  origversion: 4.2.1-r0
+- repo: pardus_21
+  subrepo: updates/main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: "3.96"
+  origversion: 3.96-2+deb11u1
   status: outdated
-  summary: The Ultimate Packer for eXecutables
   maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: upx
-  binname: upx-doc
-  visiblename: upx-doc
-  version: 4.2.1
-  origversion: 4.2.1-r0
-  status: outdated
-  summary: The Ultimate Packer for eXecutables (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: upx
-  binname: upx
-  visiblename: upx
-  version: 4.2.4
-  origversion: 4.2.4-r0
-  status: outdated
-  summary: The Ultimate Packer for eXecutables
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: upx
-  binname: upx-doc
-  visiblename: upx-doc
-  version: 4.2.4
-  origversion: 4.2.4-r0
-  status: outdated
-  summary: The Ultimate Packer for eXecutables (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: upx
-  binname: upx
-  visiblename: upx
-  version: 4.2.4
-  origversion: 4.2.4-r0
-  status: outdated
-  summary: The Ultimate Packer for eXecutables
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: upx
-  binname: upx-doc
-  visiblename: upx-doc
-  version: 4.2.4
-  origversion: 4.2.4-r0
-  status: outdated
-  summary: The Ultimate Packer for eXecutables (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: upx
-  binname: upx
-  visiblename: upx
-  version: 5.0.2
-  origversion: 5.0.2-r0
-  status: outdated
-  summary: The Ultimate Packer for eXecutables
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: upx
-  binname: upx-doc
-  visiblename: upx-doc
-  version: 5.0.2
-  origversion: 5.0.2-r0
-  status: outdated
-  summary: The Ultimate Packer for eXecutables (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: 4.2.3
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
+    - robert@debian.org
   categories:
-    - Development
+    - utils
+- repo: alpine_3_19
+  subrepo: community
+  srcname: upx
+  binname: upx
+  visiblename: upx
+  version: 4.2.1
+  origversion: 4.2.1-r0
+  status: outdated
+  summary: The Ultimate Packer for eXecutables
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: upx
+  binname: upx-doc
+  visiblename: upx-doc
+  version: 4.2.1
+  origversion: 4.2.1-r0
+  status: outdated
+  summary: The Ultimate Packer for eXecutables (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: upx
+  binname: upx
+  visiblename: upx
+  version: 4.2.4
+  origversion: 4.2.4-r0
+  status: outdated
+  summary: The Ultimate Packer for eXecutables
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: upx
+  binname: upx-doc
+  visiblename: upx-doc
+  version: 4.2.4
+  origversion: 4.2.4-r0
+  status: outdated
+  summary: The Ultimate Packer for eXecutables (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: upx
+  binname: upx
+  visiblename: upx
+  version: 4.2.4
+  origversion: 4.2.4-r0
+  status: outdated
+  summary: The Ultimate Packer for eXecutables
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: upx
+  binname: upx-doc
+  visiblename: upx-doc
+  version: 4.2.4
+  origversion: 4.2.4-r0
+  status: outdated
+  summary: The Ultimate Packer for eXecutables (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: upx
+  binname: upx
+  visiblename: upx
+  version: 5.0.2
+  origversion: 5.0.2-r0
+  status: outdated
+  summary: The Ultimate Packer for eXecutables
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: upx
+  binname: upx-doc
+  visiblename: upx-doc
+  version: 5.0.2
+  origversion: 5.0.2-r0
+  status: outdated
+  summary: The Ultimate Packer for eXecutables (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - GPL-2.0-or-later
 - repo: alpine_3_23
   subrepo: community
   srcname: upx
@@ -595,6 +370,18 @@
     - fallback-mnt-aosc@repology
   categories:
     - devel
+- repo: arch
+  subrepo: extra
+  srcname: upx
+  binname: upx
+  visiblename: upx
+  version: 5.2.0
+  origversion: 5.2.0-1
+  status: outdated
+  summary: Extendable, high-performance executable packer for several executable formats
+  licenses:
+    - custom
+    - GPL-2.0-or-later
 - repo: aur
   srcname: upx-git
   binname: upx-git
@@ -619,13 +406,6 @@
   licenses:
     - custom
     - GPL-2.0-or-later
-- repo: homebrew
-  srcname: upx
-  visiblename: upx
-  version: 5.2.1
-  origversion: null
-  status: newest
-  summary: Compress/expand executable files
 - repo: chocolatey
   binname: upx
   visiblename: Ultimate Packer for eXecutables
@@ -786,6 +566,46 @@
   status: outdated
   maintainers:
     - robert@debian.org
+- repo: deepin_25
+  subrepo: community
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-1.1
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: "3.96"
+  origversion: 3.96-2
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - utils
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-2
+  status: outdated
+  maintainers:
+    - upx-ucl@packages.debian.org
+    - bage@debian.org
+  categories:
+    - utils
 - repo: epel_7
   srcname: upx
   visiblename: upx
@@ -971,19 +791,6 @@
     - GPL-2.0-or-later AND LicenseRef-Fedora-Public-Domain
   categories:
     - Unspecified
-- repo: pardus_21
-  subrepo: updates/main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: "3.96"
-  origversion: 3.96-2+deb11u1
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - utils
 - repo: fedora_44
   subrepo: release
   srcname: upx
@@ -1115,143 +922,139 @@
   summary: powerful executable packer
   licenses:
     - GNU General Public License (GPL)
-- repo: liguros_stable
-  srcname: app-arch/upx
-  visiblename: app-arch/upx
-  version: 4.2.4
-  origversion: null
-  status: outdated
-  summary: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
-  maintainers:
-    - azamat.hackimov@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - GPL-2+
-    - UPX-exception
-  categories:
-    - app-arch
-- repo: liguros_stable
-  srcname: app-arch/upx-bin
-  visiblename: app-arch/upx-bin
-  version: 4.2.4
-  origversion: null
-  status: outdated
-  summary: Ultimate Packer for eXecutables, binary version with proprietary NRV compression
-  maintainers:
-    - azamat.hackimov@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - GPL-2+
-    - UPX-exception
-  categories:
-    - app-arch
-- repo: liguros_stable
-  srcname: app-arch/upx
-  visiblename: app-arch/upx
-  version: 4.1.0
-  origversion: null
-  status: legacy
-  summary: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
-  maintainers:
-    - azamat.hackimov@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - GPL-2+
-    - UPX-exception
-  categories:
-    - app-arch
-- repo: liguros_stable
-  srcname: app-arch/upx-bin
-  visiblename: app-arch/upx-bin
-  version: 4.1.0
-  origversion: null
-  status: legacy
-  summary: Ultimate Packer for eXecutables, binary version with proprietary NRV compression
-  maintainers:
-    - azamat.hackimov@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - GPL-2+
-    - UPX-exception
-  categories:
-    - app-arch
-- repo: liguros_develop
-  srcname: app-arch/upx
-  visiblename: app-arch/upx
-  version: 5.1.0
-  origversion: null
-  status: outdated
-  summary: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
-  maintainers:
-    - azamat.hackimov@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - GPL-2+
-    - UPX-exception
-  categories:
-    - app-arch
-- repo: liguros_develop
-  srcname: app-arch/upx-bin
-  visiblename: app-arch/upx-bin
-  version: 5.1.0
-  origversion: null
-  status: outdated
-  summary: Ultimate Packer for eXecutables, binary version with proprietary NRV compression
-  maintainers:
-    - azamat.hackimov@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - GPL-2+
-    - UPX-exception
-  categories:
-    - app-arch
-- repo: liguros_develop
-  srcname: app-arch/upx
-  visiblename: app-arch/upx
-  version: 4.2.4
-  origversion: null
-  status: legacy
-  summary: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
-  maintainers:
-    - azamat.hackimov@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - GPL-2+
-    - UPX-exception
-  categories:
-    - app-arch
-- repo: msys2_clangarm64
-  srcname: mingw-w64-upx
-  binname: mingw-w64-clang-aarch64-upx
-  visiblename: mingw-w64-clang-aarch64-upx
+- repo: homebrew
+  srcname: upx
+  visiblename: upx
   version: 5.2.1
-  origversion: 5.2.1-2
+  origversion: null
   status: newest
-  summary: Ultimate executable compressor. (mingw-w64)
+  summary: Compress/expand executable files
+- repo: homebrew
+  srcname: upx
+  visiblename: upx
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Compress/expand executable files
+- repo: kali_rolling
+  subrepo: main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-2
+  status: outdated
+  maintainers:
+    - upx-ucl@packages.debian.org
+    - bage@debian.org
+  categories:
+    - utils
+- repo: liguros_stable
+  srcname: app-arch/upx
+  visiblename: app-arch/upx
+  version: 4.2.4
+  origversion: null
+  status: outdated
+  summary: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
+  maintainers:
+    - azamat.hackimov@gmail.com
+    - proxy-maint@gentoo.org
   licenses:
-    - spdx:GPL-2.0-or-later
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
+    - GPL-2+
+    - UPX-exception
+  categories:
+    - app-arch
+- repo: liguros_stable
+  srcname: app-arch/upx-bin
+  visiblename: app-arch/upx-bin
+  version: 4.2.4
+  origversion: null
+  status: outdated
+  summary: Ultimate Packer for eXecutables, binary version with proprietary NRV compression
+  maintainers:
+    - azamat.hackimov@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - GPL-2+
+    - UPX-exception
+  categories:
+    - app-arch
+- repo: liguros_stable
+  srcname: app-arch/upx
+  visiblename: app-arch/upx
+  version: 4.1.0
+  origversion: null
+  status: legacy
+  summary: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
+  maintainers:
+    - azamat.hackimov@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - GPL-2+
+    - UPX-exception
+  categories:
+    - app-arch
+- repo: liguros_stable
+  srcname: app-arch/upx-bin
+  visiblename: app-arch/upx-bin
+  version: 4.1.0
+  origversion: null
+  status: legacy
+  summary: Ultimate Packer for eXecutables, binary version with proprietary NRV compression
+  maintainers:
+    - azamat.hackimov@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - GPL-2+
+    - UPX-exception
+  categories:
+    - app-arch
+- repo: liguros_develop
+  srcname: app-arch/upx
+  visiblename: app-arch/upx
+  version: 5.1.0
+  origversion: null
+  status: outdated
+  summary: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
+  maintainers:
+    - azamat.hackimov@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - GPL-2+
+    - UPX-exception
+  categories:
+    - app-arch
+- repo: liguros_develop
+  srcname: app-arch/upx-bin
+  visiblename: app-arch/upx-bin
+  version: 5.1.0
+  origversion: null
+  status: outdated
+  summary: Ultimate Packer for eXecutables, binary version with proprietary NRV compression
+  maintainers:
+    - azamat.hackimov@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - GPL-2+
+    - UPX-exception
+  categories:
+    - app-arch
+- repo: liguros_develop
+  srcname: app-arch/upx
+  visiblename: app-arch/upx
   version: 4.2.4
   origversion: null
   status: legacy
+  summary: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
+  maintainers:
+    - azamat.hackimov@gmail.com
+    - proxy-maint@gentoo.org
   licenses:
-    - GPLv2
+    - GPL-2+
+    - UPX-exception
   categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: "4"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
+    - app-arch
 - repo: liguros_develop
   srcname: app-arch/upx-bin
   visiblename: app-arch/upx-bin
@@ -1267,6 +1070,17 @@
     - UPX-exception
   categories:
     - app-arch
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: 4.2.4
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
 - repo: macports
   srcname: archivers/upx
   binname: upx
@@ -1421,17 +1235,16 @@
   summary: Ultimate executable compressor. (mingw-w64)
   licenses:
     - spdx:GPL-2.0-or-later
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: 4.2.2
-  origversion: null
-  status: legacy
+- repo: msys2_clangarm64
+  srcname: mingw-w64-upx
+  binname: mingw-w64-clang-aarch64-upx
+  visiblename: mingw-w64-clang-aarch64-upx
+  version: 5.2.1
+  origversion: 5.2.1-2
+  status: newest
+  summary: Ultimate executable compressor. (mingw-w64)
   licenses:
-    - GPLv2
-  categories:
-    - Development
+    - spdx:GPL-2.0-or-later
 - repo: msys2_mingw
   subrepo: x86_64
   srcname: mingw-w64-upx
@@ -1443,6 +1256,17 @@
   summary: Ultimate executable compressor. (mingw-w64)
   licenses:
     - spdx:GPL-2.0-or-later
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: "5"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
 - repo: msys2_msys2
   subrepo: x86_64
   srcname: upx
@@ -1476,6 +1300,75 @@
     - stevep@mxlinux.org
   categories:
     - utils
+- repo: mx_23
+  subrepo: main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-1.1~mx23+1
+  status: outdated
+  maintainers:
+    - stevep@mxlinux.org
+  categories:
+    - utils
+- repo: mx_23_testing
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-1~mx23+1
+  status: outdated
+  maintainers:
+    - stevep@mxlinux.org
+  categories:
+    - utils
+- repo: nix_stable_24_05
+  srcname: upx
+  visiblename: upx
+  version: 4.2.3
+  origversion: null
+  status: outdated
+  summary: The Ultimate Packer for eXecutables
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_stable_24_11
+  srcname: upx
+  visiblename: upx
+  version: 4.2.4
+  origversion: null
+  status: outdated
+  summary: Ultimate Packer for eXecutables
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_stable_25_05
+  srcname: upx
+  visiblename: upx
+  version: 5.0.1
+  origversion: null
+  status: outdated
+  summary: Ultimate Packer for eXecutables
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-2.0-or-later
+- repo: nix_stable_25_11
+  srcname: upx
+  visiblename: upx
+  version: 5.0.2
+  origversion: null
+  status: outdated
+  summary: Ultimate Packer for eXecutables
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-2.0-or-later
 - repo: nix_stable_26_05
   srcname: upx
   visiblename: upx
@@ -1498,6 +1391,17 @@
     - fallback-mnt-nix@repology
   licenses:
     - GPL-2.0-or-later
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: "4"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
 - repo: npackd_stable
   srcname: net.sourceforge.upx.UPX
   binname: net.sourceforge.upx.UPX
@@ -1542,24 +1446,22 @@
     - GPLv2
   categories:
     - Development
-- repo: pardus_21
-  subrepo: main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: "3.96"
-  origversion: 3.96-2
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - utils
 - repo: npackd_stable
   srcname: net.sourceforge.upx.UPX
   binname: net.sourceforge.upx.UPX
   visiblename: UPX
-  version: 5.0.1
+  version: 4.2.2
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: 4.2.3
   origversion: null
   status: legacy
   licenses:
@@ -1766,28 +1668,18 @@
     - Apache-2.0 WITH LLVM-exception AND GPL-2.0-or-later AND BSD-4-Clause AND BSD-3-Clause AND MIT AND Zlib AND (CPL-1.0 OR LGPL-2.1-only)
   categories:
     - Development/Tools/Other
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-1.1
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - utils
-- repo: pclinuxos
+- repo: parabola
+  subrepo: extra
   srcname: upx
+  binname: upx
   visiblename: upx
   version: 5.2.0
-  origversion: 5.2.0-1pclos2026
+  origversion: 5.2.0-1
   status: outdated
-  summary: The Ultimate Packer for eXecutables
-  categories:
-    - Archiving/Compression
+  summary: Extendable, high-performance executable packer for several executable formats
+  licenses:
+    - custom
+    - GPL-2.0-or-later
 - repo: pisi_main
   subrepo: main
   srcname: util/archive/upx
@@ -1802,6 +1694,127 @@
     - GPL
   categories:
     - app:console
+- repo: pkgsrc_2026_2
+  srcname: archivers/upx
+  binname: upx
+  visiblename: archivers/upx
+  version: "3.96"
+  origversion: 3.96nb3
+  status: outdated
+  summary: Ultimate packer for executables
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - archivers
+- repo: pkgsrc_2026_3
+  srcname: archivers/upx
+  binname: upx
+  visiblename: archivers/upx
+  version: "3.96"
+  origversion: 3.96nb3
+  status: outdated
+  summary: Ultimate packer for executables
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - archivers
+- repo: pkgsrc_current
+  srcname: archivers/upx
+  binname: upx
+  visiblename: archivers/upx
+  version: 5.2.1
+  origversion: 5.2.1nb1
+  status: newest
+  summary: Ultimate packer for executables
+  maintainers:
+    - drixter@e-utp.net
+  categories:
+    - archivers
+- repo: pld
+  srcname: upx
+  visiblename: upx
+  version: 4.2.4
+  origversion: 4.2.4-1
+  status: outdated
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: "3.95"
+  origversion: 3.95-1
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - utils
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: "3.96"
+  origversion: 3.96-2
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-1.1
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - utils
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: "3.96"
+  origversion: 3.96-3
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - utils
+- repo: raspbian_stable
+  subrepo: main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-1.1
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - utils
+- repo: raspbian_testing
+  subrepo: main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-2
+  status: outdated
+  maintainers:
+    - upx-ucl@packages.debian.org
+    - bage@debian.org
+  categories:
+    - utils
 - repo: ravenports
   srcname: upx
   binname: upx
@@ -2026,19 +2039,6 @@
   visiblename: upx-ucl
   version: 4.2.4
   origversion: 4.2.4-1
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - universe/utils
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-1.1
   status: outdated
   maintainers:
     - robert@debian.org
