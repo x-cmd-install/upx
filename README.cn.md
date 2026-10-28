@@ -14,25 +14,25 @@ x install upx
 
 ## 代码洞察
 
-合计: **205,739** 行代码（覆盖前 5 种语言、共 **588** 个文件）。
+合计: **205,746** 行代码（覆盖前 5 种语言、共 **588** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| CHeader | 110,510 | 7,170 | 2,596 | 195 |
-| Cpp | 38,730 | 5,815 | 4,634 | 65 |
+| CHeader | 110,515 | 7,170 | 2,597 | 195 |
+| Cpp | 38,732 | 5,815 | 4,634 | 65 |
 | AssemblyGAS | 36,806 | 8,009 | 4,764 | 243 |
 | C | 11,837 | 2,340 | 1,402 | 59 |
 | Makefile | 2,187 | 516 | 532 | 26 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3 / 10**
+总评分: **3.2 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
+- **Code-Review** (2/10) — Found 7/30 approved changesets -- score normalized to 2
 - **Security-Policy** (3/10) — security policy file detected
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install upx
 ## 发布
 
 - **最新版本**: `v5.2.1` (2026-08-27)
-- **最近提交**: 2026-10-26
+- **最近提交**: 2026-10-27
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 17,969 · **Fork**: 1,540 · **开放 issue**: 876 · **贡献者**: 25
+- **Star**: 17,972 · **Fork**: 1,540 · **开放 issue**: 876 · **贡献者**: 25
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 78 · **开放 PR**: 1 · **已关闭 issue**: 856 · **开放 issue**: 20 · **提交数**: 4922
+- **发布数**: 24 · **已合并 PR**: 79 · **开放 PR**: 1 · **已关闭 issue**: 856 · **开放 issue**: 20 · **提交数**: 4924
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 16 | 1 | 7 | 3 | 65 |
-| last60d | 2026-08-28 | 0 | 16 | 1 | 17 | 4 | 96 |
-| 90d | 2026-07-29 | 1 | 16 | 1 | 26 | 4 | 122 |
-| last180d | 2026-04-30 | 2 | 41 | 1 | 42 | 7 | 220 |
-| 360d | 2025-11-01 | 4 | 41 | 1 | 67 | 7 | 359 |
-| last720d | 2024-11-06 | 7 | 41 | 1 | 132 | 8 | 257 |
+| 30d | 2026-09-28 | 0 | 16 | 1 | 5 | 3 | 67 |
+| last60d | 2026-08-29 | 0 | 17 | 1 | 17 | 4 | 98 |
+| 90d | 2026-07-30 | 1 | 17 | 1 | 25 | 4 | 124 |
+| last180d | 2026-05-01 | 2 | 42 | 1 | 41 | 7 | 222 |
+| 360d | 2025-11-02 | 4 | 42 | 1 | 67 | 7 | 361 |
+| last720d | 2024-11-07 | 7 | 42 | 1 | 132 | 8 | 259 |
 
 ## Release 资产
 
@@ -86,7 +86,7 @@ x install upx
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/upx) 上共有 **165** 个发行版报告此项目。**32** 个 ✅ 已是最新上游版本，**99** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/upx) 上共有 **165** 个发行版报告此项目。**33** 个 ✅ 已是最新上游版本，**98** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -96,7 +96,7 @@ x install upx
 | Ubuntu 26.04 LTS | `4.2.4` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `4.2.2` | ⚠️ outdated |
 | Arch | `5.2.0` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `5.2.1` | ✅ latest |
 | Fedora rawhide | `5.2.1` | ✅ latest |
 | Nix unstable | `5.2.1` | ✅ latest |
 | Void | `5.1.1` | ⚠️ outdated |
@@ -112,4 +112,4 @@ upx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T03:56:00Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T04:18:16Z._
