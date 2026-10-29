@@ -42,51 +42,51 @@ x install upx
 
 ## 发布
 
-- **最新版本**: `v5.2.1` (2026-08-27)
-- **最近提交**: 2026-10-27
+- **最新版本**: `v5.3.0` (2026-10-28)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 17,972 · **Fork**: 1,540 · **开放 issue**: 876 · **贡献者**: 25
+- **Star**: 17,974 · **Fork**: 1,540 · **开放 issue**: 876 · **贡献者**: 25
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 79 · **开放 PR**: 1 · **已关闭 issue**: 856 · **开放 issue**: 20 · **提交数**: 4924
+- **发布数**: 25 · **已合并 PR**: 79 · **开放 PR**: 1 · **已关闭 issue**: 857 · **开放 issue**: 19 · **提交数**: 4926
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 16 | 1 | 5 | 3 | 67 |
-| last60d | 2026-08-29 | 0 | 17 | 1 | 17 | 4 | 98 |
-| 90d | 2026-07-30 | 1 | 17 | 1 | 25 | 4 | 124 |
-| last180d | 2026-05-01 | 2 | 42 | 1 | 41 | 7 | 222 |
-| 360d | 2025-11-02 | 4 | 42 | 1 | 67 | 7 | 361 |
-| last720d | 2024-11-07 | 7 | 42 | 1 | 132 | 8 | 259 |
+| 30d | 2026-09-29 | 1 | 16 | 1 | 5 | 3 | 69 |
+| last60d | 2026-08-30 | 1 | 17 | 1 | 17 | 4 | 100 |
+| 90d | 2026-07-31 | 2 | 17 | 1 | 24 | 4 | 126 |
+| last180d | 2026-05-02 | 3 | 42 | 1 | 41 | 7 | 224 |
+| 360d | 2025-11-03 | 5 | 42 | 1 | 66 | 7 | 363 |
+| last720d | 2024-11-08 | 8 | 42 | 1 | 132 | 8 | 261 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [upx-5.2.1-amd64_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-amd64_linux.tar.xz) | 648.5 KiB | `native/linux/x64` |
-| [upx-5.2.1-arm64_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-arm64_linux.tar.xz) | 658.8 KiB | `native/linux/arm64` |
-| [upx-5.2.1-armeb_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-armeb_linux.tar.xz) | 666.9 KiB | `native/linux/arm` |
-| [upx-5.2.1-arm_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-arm_linux.tar.xz) | 659.6 KiB | `native/linux/arm` |
-| [upx-5.2.1-dos.zip](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-dos.zip) | 763.6 KiB | `other` |
-| [upx-5.2.1-i386_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-i386_linux.tar.xz) | 704.6 KiB | `native/linux/x86` |
-| [upx-5.2.1-mipsel_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-mipsel_linux.tar.xz) | 742.1 KiB | `other` |
-| [upx-5.2.1-mips_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-mips_linux.tar.xz) | 745.6 KiB | `other` |
-| [upx-5.2.1-powerpc64le_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-powerpc64le_linux.tar.xz) | 732.6 KiB | `other` |
-| [upx-5.2.1-powerpc_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-powerpc_linux.tar.xz) | 707.3 KiB | `other` |
-| [upx-5.2.1-riscv64_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-riscv64_linux.tar.xz) | 723.5 KiB | `native/linux/riscv64` |
-| [upx-5.2.1-src.tar.xz](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-src.tar.xz) | 1.7 MiB | `other` |
-| [upx-5.2.1-win32.zip](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-win32.zip) | 664.8 KiB | `native/win/x64` |
-| [upx-5.2.1-win64.zip](https://github.com/upx/upx/releases/download/v5.2.1/upx-5.2.1-win64.zip) | 664.3 KiB | `native/win/x64` |
+| [upx-5.3.0-amd64_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-amd64_linux.tar.xz) | 655.0 KiB | `native/linux/x64` |
+| [upx-5.3.0-arm64_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-arm64_linux.tar.xz) | 665.6 KiB | `native/linux/arm64` |
+| [upx-5.3.0-armeb_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-armeb_linux.tar.xz) | 671.9 KiB | `native/linux/arm` |
+| [upx-5.3.0-arm_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-arm_linux.tar.xz) | 669.6 KiB | `native/linux/arm` |
+| [upx-5.3.0-dos.zip](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-dos.zip) | 772.6 KiB | `other` |
+| [upx-5.3.0-i386_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-i386_linux.tar.xz) | 714.5 KiB | `native/linux/x86` |
+| [upx-5.3.0-mipsel_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-mipsel_linux.tar.xz) | 749.0 KiB | `other` |
+| [upx-5.3.0-mips_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-mips_linux.tar.xz) | 752.3 KiB | `other` |
+| [upx-5.3.0-powerpc64le_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-powerpc64le_linux.tar.xz) | 739.8 KiB | `other` |
+| [upx-5.3.0-powerpc_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-powerpc_linux.tar.xz) | 714.2 KiB | `other` |
+| [upx-5.3.0-riscv64_linux.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-riscv64_linux.tar.xz) | 730.8 KiB | `native/linux/riscv64` |
+| [upx-5.3.0-src.tar.xz](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-src.tar.xz) | 1.8 MiB | `other` |
+| [upx-5.3.0-win32.zip](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-win32.zip) | 672.6 KiB | `native/win/x64` |
+| [upx-5.3.0-win64.zip](https://github.com/upx/upx/releases/download/v5.3.0/upx-5.3.0-win64.zip) | 671.5 KiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/upx) 上共有 **165** 个发行版报告此项目。**33** 个 ✅ 已是最新上游版本，**98** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/upx) 上共有 **166** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**124** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -96,12 +96,12 @@ x install upx
 | Ubuntu 26.04 LTS | `4.2.4` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `4.2.2` | ⚠️ outdated |
 | Arch | `5.2.0` | ⚠️ outdated |
-| Homebrew | `5.2.1` | ✅ latest |
-| Fedora rawhide | `5.2.1` | ✅ latest |
-| Nix unstable | `5.2.1` | ✅ latest |
+| Homebrew | `5.3.0` | ✅ latest |
+| Fedora rawhide | `5.2.1` | ⚠️ outdated |
+| Nix unstable | `5.2.1` | ⚠️ outdated |
 | Void | `5.1.1` | ⚠️ outdated |
-| Alpine edge | `5.2.1` | ✅ latest |
-| openSUSE Tumbleweed | `5.2.1` | ✅ latest |
+| Alpine edge | `5.2.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `5.2.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -112,4 +112,4 @@ upx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T04:18:16Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T04:38:36Z._
