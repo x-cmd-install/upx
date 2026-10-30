@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,974 · **Forks**: 1,540 · **Open issues**: 876 · **Contributors**: 25
+- **Stars**: 17,975 · **Forks**: 1,541 · **Open issues**: 876 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 79 · **Open PRs**: 1 · **Closed issues**: 857 · **Open issues**: 19 · **Commits**: 4926
+- **Releases**: 25 · **Merged PRs**: 79 · **Open PRs**: 2 · **Closed issues**: 857 · **Open issues**: 19 · **Commits**: 4926
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 16 | 1 | 5 | 3 | 69 |
-| last60d | 2026-08-30 | 1 | 17 | 1 | 17 | 4 | 100 |
-| 90d | 2026-07-31 | 2 | 17 | 1 | 24 | 4 | 126 |
-| last180d | 2026-05-02 | 3 | 42 | 1 | 41 | 7 | 224 |
-| 360d | 2025-11-03 | 5 | 42 | 1 | 66 | 7 | 363 |
-| last720d | 2024-11-08 | 8 | 42 | 1 | 132 | 8 | 261 |
+| 30d | 2026-09-30 | 1 | 16 | 2 | 5 | 3 | 69 |
+| last60d | 2026-08-31 | 1 | 17 | 2 | 16 | 4 | 100 |
+| 90d | 2026-08-01 | 2 | 17 | 2 | 24 | 4 | 126 |
+| last180d | 2026-05-03 | 3 | 42 | 2 | 41 | 7 | 224 |
+| 360d | 2025-11-04 | 5 | 42 | 2 | 66 | 7 | 363 |
+| last720d | 2024-11-09 | 8 | 42 | 2 | 132 | 8 | 261 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **166** distros on [repology.org](https://repology.org/project/upx). **7** are ✅ on the latest upstream release, **124** are ⚠️ on an older version.
+Reported by **166** distros on [repology.org](https://repology.org/project/upx). **13** are ✅ on the latest upstream release, **118** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,7 +97,7 @@ Reported by **166** distros on [repology.org](https://repology.org/project/upx).
 | Ubuntu 24.04 LTS | `4.2.2` | ⚠️ outdated |
 | Arch | `5.2.0` | ⚠️ outdated |
 | Homebrew | `5.3.0` | ✅ latest |
-| Fedora rawhide | `5.2.1` | ⚠️ outdated |
+| Fedora rawhide | `5.3.0` | ✅ latest |
 | Nix unstable | `5.2.1` | ⚠️ outdated |
 | Void | `5.1.1` | ⚠️ outdated |
 | Alpine edge | `5.2.1` | ⚠️ outdated |
@@ -112,4 +112,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T04:38:35Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T04:39:03Z._
