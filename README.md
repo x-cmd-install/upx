@@ -14,12 +14,12 @@ x install upx
 
 ## Code insight
 
-Total: **205,746** lines of code across **588** files in the top 5 languages.
+Total: **205,759** lines of code across **588** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CHeader | 110,515 | 7,170 | 2,597 | 195 |
-| Cpp | 38,732 | 5,815 | 4,634 | 65 |
+| CHeader | 110,516 | 7,170 | 2,597 | 195 |
+| Cpp | 38,744 | 5,812 | 4,634 | 65 |
 | AssemblyGAS | 36,806 | 8,009 | 4,764 | 243 |
 | C | 11,837 | 2,340 | 1,402 | 59 |
 | Makefile | 2,187 | 516 | 532 | 26 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.0` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-30
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 17,975 · **Forks**: 1,541 · **Open issues**: 876 · **Contributors**: 25
+- **Stars**: 17,980 · **Forks**: 1,542 · **Open issues**: 876 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 79 · **Open PRs**: 2 · **Closed issues**: 857 · **Open issues**: 19 · **Commits**: 4926
+- **Releases**: 25 · **Merged PRs**: 80 · **Open PRs**: 1 · **Closed issues**: 858 · **Open issues**: 18 · **Commits**: 4928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 16 | 2 | 5 | 3 | 69 |
-| last60d | 2026-08-31 | 1 | 17 | 2 | 16 | 4 | 100 |
-| 90d | 2026-08-01 | 2 | 17 | 2 | 24 | 4 | 126 |
-| last180d | 2026-05-03 | 3 | 42 | 2 | 41 | 7 | 224 |
-| 360d | 2025-11-04 | 5 | 42 | 2 | 66 | 7 | 363 |
-| last720d | 2024-11-09 | 8 | 42 | 2 | 132 | 8 | 261 |
+| 30d | 2026-10-01 | 1 | 15 | 1 | 6 | 2 | 71 |
+| last60d | 2026-09-01 | 1 | 18 | 1 | 17 | 3 | 102 |
+| 90d | 2026-08-02 | 2 | 18 | 1 | 25 | 3 | 128 |
+| last180d | 2026-05-04 | 3 | 43 | 1 | 42 | 6 | 226 |
+| 360d | 2025-11-05 | 5 | 43 | 1 | 67 | 6 | 365 |
+| last720d | 2024-11-10 | 8 | 43 | 1 | 133 | 7 | 263 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **166** distros on [repology.org](https://repology.org/project/upx). **13** are ✅ on the latest upstream release, **118** are ⚠️ on an older version.
+Reported by **166** distros on [repology.org](https://repology.org/project/upx). **19** are ✅ on the latest upstream release, **112** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -112,4 +112,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T04:39:03Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T04:22:12Z._
