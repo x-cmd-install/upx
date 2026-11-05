@@ -14,25 +14,25 @@ x install upx
 
 ## Code insight
 
-Total: **205,794** lines of code across **588** files in the top 5 languages.
+Total: **205,805** lines of code across **588** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CHeader | 110,517 | 7,170 | 2,596 | 195 |
-| Cpp | 38,777 | 5,816 | 4,635 | 65 |
+| CHeader | 110,522 | 7,170 | 2,596 | 195 |
+| Cpp | 38,783 | 5,816 | 4,635 | 65 |
 | AssemblyGAS | 36,806 | 8,009 | 4,764 | 243 |
 | C | 11,837 | 2,340 | 1,402 | 59 |
 | Makefile | 2,187 | 516 | 532 | 26 |
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **3.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 7/30 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
 - **Security-Policy** (3/10) — security policy file detected
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.0` (2026-10-28)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 17,984 · **Forks**: 1,542 · **Open issues**: 876 · **Contributors**: 25
+- **Stars**: 17,982 · **Forks**: 1,543 · **Open issues**: 876 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 83 · **Open PRs**: 2 · **Closed issues**: 860 · **Open issues**: 16 · **Commits**: 4934
+- **Releases**: 25 · **Merged PRs**: 83 · **Open PRs**: 4 · **Closed issues**: 860 · **Open issues**: 16 · **Commits**: 4937
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 18 | 2 | 5 | 2 | 67 |
-| last60d | 2026-09-05 | 1 | 21 | 2 | 14 | 3 | 104 |
-| 90d | 2026-08-06 | 2 | 21 | 2 | 25 | 3 | 125 |
-| last180d | 2026-05-08 | 3 | 46 | 2 | 43 | 3 | 229 |
-| 360d | 2025-11-09 | 5 | 46 | 2 | 69 | 4 | 370 |
-| last720d | 2024-11-14 | 8 | 46 | 2 | 135 | 5 | 269 |
+| 30d | 2026-10-06 | 1 | 18 | 4 | 5 | 2 | 70 |
+| last60d | 2026-09-06 | 1 | 21 | 4 | 14 | 3 | 107 |
+| 90d | 2026-08-07 | 2 | 21 | 4 | 25 | 3 | 128 |
+| last180d | 2026-05-09 | 3 | 46 | 4 | 43 | 3 | 232 |
+| 360d | 2025-11-10 | 5 | 46 | 4 | 69 | 4 | 373 |
+| last720d | 2024-11-15 | 8 | 46 | 4 | 135 | 5 | 272 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T05:02:58Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T05:25:17Z._
