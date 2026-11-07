@@ -19,7 +19,7 @@ Total: **205,974** lines of code across **588** files in the top 5 languages.
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 110,671 | 7,170 | 2,596 | 195 |
-| Cpp | 38,800 | 5,818 | 4,635 | 65 |
+| Cpp | 38,800 | 5,822 | 4,635 | 65 |
 | AssemblyGAS | 36,807 | 8,010 | 4,765 | 243 |
 | C | 11,837 | 2,340 | 1,402 | 59 |
 | Makefile | 2,189 | 516 | 532 | 26 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.0` (2026-10-28)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 17,984 · **Forks**: 1,545 · **Open issues**: 879 · **Contributors**: 26
+- **Stars**: 17,981 · **Forks**: 1,544 · **Open issues**: 879 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 85 · **Open PRs**: 4 · **Closed issues**: 862 · **Open issues**: 17 · **Commits**: 4942
+- **Releases**: 25 · **Merged PRs**: 86 · **Open PRs**: 3 · **Closed issues**: 862 · **Open issues**: 17 · **Commits**: 4945
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 20 | 4 | 7 | 3 | 75 |
-| last60d | 2026-09-07 | 1 | 23 | 4 | 16 | 4 | 112 |
-| 90d | 2026-08-08 | 2 | 23 | 4 | 27 | 4 | 133 |
-| last180d | 2026-05-10 | 3 | 48 | 4 | 45 | 4 | 237 |
-| 360d | 2025-11-11 | 5 | 48 | 4 | 71 | 5 | 378 |
-| last720d | 2024-11-16 | 8 | 48 | 4 | 137 | 6 | 277 |
+| 30d | 2026-10-08 | 1 | 20 | 3 | 7 | 2 | 78 |
+| last60d | 2026-09-08 | 1 | 24 | 3 | 15 | 4 | 115 |
+| 90d | 2026-08-09 | 2 | 24 | 3 | 27 | 4 | 136 |
+| last180d | 2026-05-11 | 3 | 49 | 3 | 45 | 4 | 240 |
+| 360d | 2025-11-12 | 5 | 49 | 3 | 70 | 5 | 381 |
+| last720d | 2024-11-17 | 8 | 49 | 3 | 137 | 6 | 280 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T05:24:11Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T04:52:59Z._
