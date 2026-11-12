@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,988 · **Forks**: 1,543 · **Open issues**: 879 · **Contributors**: 26
+- **Stars**: 17,990 · **Forks**: 1,544 · **Open issues**: 879 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 864 · **Open issues**: 15 · **Commits**: 4955
+- **Releases**: 25 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 865 · **Open issues**: 14 · **Commits**: 4955
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 20 | 0 | 7 | 0 | 54 |
-| last60d | 2026-09-12 | 1 | 27 | 0 | 17 | 2 | 119 |
-| 90d | 2026-08-13 | 2 | 27 | 0 | 29 | 2 | 141 |
-| last180d | 2026-05-15 | 3 | 52 | 0 | 47 | 2 | 246 |
-| 360d | 2025-11-16 | 5 | 52 | 0 | 72 | 3 | 386 |
-| last720d | 2024-11-21 | 8 | 52 | 0 | 139 | 4 | 290 |
+| 30d | 2026-10-13 | 1 | 19 | 0 | 7 | 0 | 54 |
+| last60d | 2026-09-13 | 1 | 27 | 0 | 17 | 2 | 119 |
+| 90d | 2026-08-14 | 2 | 27 | 0 | 29 | 2 | 141 |
+| last180d | 2026-05-16 | 3 | 52 | 0 | 47 | 2 | 246 |
+| 360d | 2025-11-17 | 5 | 52 | 0 | 72 | 3 | 386 |
+| last720d | 2024-11-22 | 8 | 52 | 0 | 139 | 4 | 290 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T04:56:17Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T05:58:21Z._
