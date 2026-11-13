@@ -1,5 +1,5 @@
-- repo: parrot
-  subrepo: parrot/main
+- repo: debian_13
+  subrepo: trixie/main
   srcname: upx-ucl
   binnames:
     - upx-ucl
@@ -11,53 +11,94 @@
     - robert@debian.org
   categories:
     - utils
-- repo: pclinuxos
-  srcname: upx
-  visiblename: upx
-  version: 5.2.0
-  origversion: 5.2.0-1pclos2026
-  status: outdated
-  summary: The Ultimate Packer for eXecutables
-  categories:
-    - Archiving/Compression
-- repo: parabola
-  subrepo: extra
-  srcname: upx
-  binname: upx
-  visiblename: upx
-  version: 5.2.0
-  origversion: 5.2.0-1
-  status: outdated
-  summary: Extendable, high-performance executable packer for several executable formats
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: "4.1"
+  origversion: null
+  status: legacy
   licenses:
-    - custom
-    - GPL-2.0-or-later
-- repo: pardus_21
-  subrepo: updates/main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: "3.96"
-  origversion: 3.96-2+deb11u1
-  status: outdated
-  maintainers:
-    - robert@debian.org
+    - GPLv2
   categories:
-    - utils
-- repo: pardus_21
-  subrepo: main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: "3.96"
-  origversion: 3.96-2
-  status: outdated
-  maintainers:
-    - robert@debian.org
+    - Development
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: "4.2"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
   categories:
-    - utils
+    - Development
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: 4.2.1
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: 4.2.4
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: 4.2.2
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: 4.2.3
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: "5"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: 5.2.1
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
 - repo: npackd_stable
   srcname: net.sourceforge.upx.UPX
   binname: net.sourceforge.upx.UPX
@@ -143,6 +184,17 @@
     - cielesti@protonmail.com
   licenses:
     - GPL-2.0-or-later
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: 5.0.2
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
 - repo: alpine_3_19
   subrepo: community
   srcname: upx
@@ -208,6 +260,17 @@
     - cielesti@protonmail.com
   licenses:
     - GPL-2.0-or-later
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: "5.3"
+  origversion: null
+  status: newest
+  licenses:
+    - GPLv2
+  categories:
+    - Development
 - repo: alpine_3_22
   subrepo: community
   srcname: upx
@@ -500,19 +563,6 @@
     - robert@debian.org
   categories:
     - misc
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: upx-ucl
-  binnames:
-    - upx-ucl
-  visiblename: upx-ucl
-  version: 4.2.4
-  origversion: 4.2.4-1.1
-  status: outdated
-  maintainers:
-    - robert@debian.org
-  categories:
-    - utils
 - repo: debian_14
   subrepo: forky/main
   srcname: upx-ucl
@@ -629,6 +679,17 @@
     - GPL-2.0-or-later AND LicenseRef-Fedora-Public-Domain
   categories:
     - Unspecified
+- repo: npackd_stable
+  srcname: net.sourceforge.upx.UPX
+  binname: net.sourceforge.upx.UPX
+  visiblename: UPX
+  version: "5.1"
+  origversion: null
+  status: legacy
+  licenses:
+    - GPLv2
+  categories:
+    - Development
 - repo: fedora_39
   subrepo: release
   srcname: upx
@@ -662,22 +723,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: upx
-  binnames:
-    - upx
-    - upx-debuginfo
-    - upx-debugsource
-  visiblename: upx
-  version: 5.0.0
-  origversion: 5.0.0-1.fc40
-  status: outdated
-  summary: Ultimate Packer for eXecutables
-  licenses:
-    - GPL-2.0-or-later AND LicenseRef-Fedora-Public-Domain
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: upx
   binnames:
@@ -691,6 +736,22 @@
   summary: Ultimate Packer for eXecutables
   licenses:
     - GPL-2.0-or-later AND Public Domain
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: upx
+  binnames:
+    - upx
+    - upx-debuginfo
+    - upx-debugsource
+  visiblename: upx
+  version: 5.0.0
+  origversion: 5.0.0-1.fc40
+  status: outdated
+  summary: Ultimate Packer for eXecutables
+  licenses:
+    - GPL-2.0-or-later AND LicenseRef-Fedora-Public-Domain
   categories:
     - Unspecified
 - repo: fedora_41
@@ -1060,7 +1121,7 @@
   srcname: net.sourceforge.upx.UPX
   binname: net.sourceforge.upx.UPX
   visiblename: UPX
-  version: 4.2.4
+  version: 5.1.1
   origversion: null
   status: legacy
   licenses:
@@ -1246,7 +1307,7 @@
   srcname: net.sourceforge.upx.UPX
   binname: net.sourceforge.upx.UPX
   visiblename: UPX
-  version: "5"
+  version: "5.2"
   origversion: null
   status: legacy
   licenses:
@@ -1399,127 +1460,6 @@
     - GPLv2
   categories:
     - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: "4.1"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: "4.2"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: 4.2.1
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: 4.2.2
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: 4.2.3
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: 5.0.2
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: "5.1"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: 5.1.1
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: "5.2"
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: 5.2.1
-  origversion: null
-  status: legacy
-  licenses:
-    - GPLv2
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: net.sourceforge.upx.UPX
-  binname: net.sourceforge.upx.UPX
-  visiblename: UPX
-  version: "5.3"
-  origversion: null
-  status: newest
-  licenses:
-    - GPLv2
-  categories:
-    - Development
 - repo: openmamba
   subrepo: base
   srcname: upx
@@ -1654,6 +1594,57 @@
     - Apache-2.0 WITH LLVM-exception AND GPL-2.0-or-later AND BSD-4-Clause AND BSD-3-Clause AND MIT AND Zlib AND (CPL-1.0 OR LGPL-2.1-only)
   categories:
     - Development/Tools/Other
+- repo: parabola
+  subrepo: extra
+  srcname: upx
+  binname: upx
+  visiblename: upx
+  version: 5.2.0
+  origversion: 5.2.0-1
+  status: outdated
+  summary: Extendable, high-performance executable packer for several executable formats
+  licenses:
+    - custom
+    - GPL-2.0-or-later
+- repo: pardus_21
+  subrepo: updates/main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: "3.96"
+  origversion: 3.96-2+deb11u1
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - utils
+- repo: pardus_21
+  subrepo: main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: "3.96"
+  origversion: 3.96-2
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - utils
+- repo: parrot
+  subrepo: parrot/main
+  srcname: upx-ucl
+  binnames:
+    - upx-ucl
+  visiblename: upx-ucl
+  version: 4.2.4
+  origversion: 4.2.4-1.1
+  status: outdated
+  maintainers:
+    - robert@debian.org
+  categories:
+    - utils
 - repo: parrot
   subrepo: parrot-updates/main
   srcname: upx-ucl
@@ -1667,6 +1658,15 @@
     - robert@debian.org
   categories:
     - utils
+- repo: pclinuxos
+  srcname: upx
+  visiblename: upx
+  version: 5.3.0
+  origversion: 5.3.0-1pclos2026
+  status: newest
+  summary: The Ultimate Packer for eXecutables
+  categories:
+    - Archiving/Compression
 - repo: pisi_main
   subrepo: main
   srcname: util/archive/upx
