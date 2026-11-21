@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.0` (2026-10-28)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 18,016 · **Forks**: 1,549 · **Open issues**: 880 · **Contributors**: 26
+- **Stars**: 18,021 · **Forks**: 1,550 · **Open issues**: 880 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 94 · **Open PRs**: 0 · **Closed issues**: 866 · **Open issues**: 14 · **Commits**: 4965
+- **Releases**: 25 · **Merged PRs**: 94 · **Open PRs**: 0 · **Closed issues**: 865 · **Open issues**: 15 · **Commits**: 4967
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 19 | 0 | 6 | 0 | 49 |
-| last60d | 2026-09-21 | 1 | 32 | 0 | 16 | 1 | 126 |
-| 90d | 2026-08-22 | 2 | 32 | 0 | 26 | 2 | 147 |
-| last180d | 2026-05-24 | 3 | 57 | 0 | 46 | 2 | 246 |
-| 360d | 2025-11-25 | 5 | 57 | 0 | 72 | 3 | 387 |
-| last720d | 2024-11-30 | 8 | 57 | 0 | 140 | 4 | 300 |
+| 30d | 2026-10-22 | 1 | 18 | 0 | 5 | 1 | 51 |
+| last60d | 2026-09-22 | 1 | 32 | 0 | 15 | 2 | 128 |
+| 90d | 2026-08-23 | 2 | 32 | 0 | 25 | 3 | 149 |
+| last180d | 2026-05-25 | 3 | 57 | 0 | 45 | 3 | 248 |
+| 360d | 2025-11-26 | 5 | 57 | 0 | 71 | 4 | 389 |
+| last720d | 2024-12-01 | 8 | 57 | 0 | 139 | 5 | 302 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **166** distros on [repology.org](https://repology.org/project/upx). **32** are ✅ on the latest upstream release, **99** are ⚠️ on an older version.
+Reported by **165** distros on [repology.org](https://repology.org/project/upx). **32** are ✅ on the latest upstream release, **98** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -112,4 +112,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T05:57:06Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T05:51:22Z._
