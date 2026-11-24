@@ -14,12 +14,12 @@ x install upx
 
 ## Code insight
 
-Total: **206,357** lines of code across **589** files in the top 5 languages.
+Total: **206,364** lines of code across **589** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 110,871 | 7,171 | 2,597 | 195 |
-| Cpp | 38,959 | 5,844 | 4,656 | 65 |
+| Cpp | 38,966 | 5,844 | 4,656 | 65 |
 | AssemblyGAS | 36,817 | 8,010 | 4,768 | 244 |
 | C | 11,837 | 2,340 | 1,402 | 59 |
 | Makefile | 2,203 | 516 | 533 | 26 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3.0` (2026-10-28)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 14
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 95 · **Open PRs**: 0 · **Closed issues**: 865 · **Open issues**: 15 · **Commits**: 4968
+- **Releases**: 25 · **Merged PRs**: 95 · **Open PRs**: 0 · **Closed issues**: 866 · **Open issues**: 14 · **Commits**: 4969
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 18 | 0 | 4 | 1 | 39 |
-| last60d | 2026-09-24 | 1 | 33 | 0 | 15 | 2 | 119 |
-| 90d | 2026-08-25 | 2 | 33 | 0 | 24 | 3 | 143 |
-| last180d | 2026-05-27 | 3 | 58 | 0 | 44 | 3 | 245 |
-| 360d | 2025-11-28 | 5 | 58 | 0 | 71 | 4 | 381 |
-| last720d | 2024-12-03 | 8 | 58 | 0 | 138 | 5 | 303 |
+| 30d | 2026-10-25 | 1 | 18 | 0 | 5 | 0 | 40 |
+| last60d | 2026-09-25 | 1 | 33 | 0 | 16 | 1 | 120 |
+| 90d | 2026-08-26 | 2 | 33 | 0 | 25 | 2 | 144 |
+| last180d | 2026-05-28 | 3 | 57 | 0 | 45 | 2 | 246 |
+| 360d | 2025-11-29 | 5 | 58 | 0 | 72 | 3 | 382 |
+| last720d | 2024-12-04 | 8 | 58 | 0 | 139 | 4 | 304 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T06:00:37Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T08:40:44Z._
