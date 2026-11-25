@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,026 · **Forks**: 1,550 · **Open issues**: 880 · **Contributors**: 26
+- **Stars**: 18,030 · **Forks**: 1,550 · **Open issues**: 880 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 18 | 0 | 5 | 0 | 40 |
-| last60d | 2026-09-25 | 1 | 33 | 0 | 16 | 1 | 120 |
-| 90d | 2026-08-26 | 2 | 33 | 0 | 25 | 2 | 144 |
-| last180d | 2026-05-28 | 3 | 57 | 0 | 45 | 2 | 246 |
-| 360d | 2025-11-29 | 5 | 58 | 0 | 72 | 3 | 382 |
-| last720d | 2024-12-04 | 8 | 58 | 0 | 139 | 4 | 304 |
+| 30d | 2026-10-26 | 1 | 17 | 0 | 4 | 0 | 40 |
+| last60d | 2026-09-26 | 1 | 33 | 0 | 14 | 1 | 120 |
+| 90d | 2026-08-27 | 2 | 33 | 0 | 23 | 2 | 144 |
+| last180d | 2026-05-29 | 3 | 56 | 0 | 44 | 2 | 246 |
+| 360d | 2025-11-30 | 5 | 58 | 0 | 72 | 3 | 382 |
+| last720d | 2024-12-05 | 8 | 58 | 0 | 139 | 4 | 304 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **165** distros on [repology.org](https://repology.org/project/upx). **32** are ✅ on the latest upstream release, **98** are ⚠️ on an older version.
+Reported by **164** distros on [repology.org](https://repology.org/project/upx). **33** are ✅ on the latest upstream release, **96** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -112,4 +112,4 @@ Install metadata for upx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T08:40:44Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T07:14:54Z._
